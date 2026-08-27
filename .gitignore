@@ -1,0 +1,14 @@
+node_modules
+.env
+
+# Archivos compilados de TypeScript (¡Muy importante!)
+dist/
+build/
+
+# Logs de errores de npm/Node
+*.log
+npm-debug.log*
+
+# Configuraciones locales del editor y sistema operativo
+.vscode/
+.DS_Store
